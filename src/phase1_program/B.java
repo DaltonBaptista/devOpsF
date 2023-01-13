@@ -12,7 +12,7 @@ package phase1_program;
 public class B extends A {
     
     private int contactN;
-    private String [] arr = new String [5];
+    private String [] arr = new String [6];
     private String address;
     
     public B (){}
